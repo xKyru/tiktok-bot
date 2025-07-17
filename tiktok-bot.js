@@ -5,7 +5,7 @@ import { GIFT_TO_COMMAND, ITEMS, EFFECTS, PLAYER_NAME } from './gifts.js';
 // Configuración
 const TIKTOK_USERNAME = "iamalexiss"; // Reemplaza con tu @usuario
 const PORT = process.env.PORT || 3000;
-const SERVER_URL = process.env.SERVER_URL || `http://localhost:${PORT}/trigger`;
+const SERVER_URL = process.env.SERVER_URL || `https://cd2566b924dc.ngrok-free.app/trigger`;
 
 const tiktok = new TikTokLiveConnection(TIKTOK_USERNAME);
 

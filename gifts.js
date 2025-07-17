@@ -1,4 +1,4 @@
-const PLAYER_NAME = "Player489"; // Nombre estático del jugador
+const PLAYER_NAME = "Player212"; // Nombre estático del jugador
 
 const GIFT_TO_COMMAND = new Map([
   ["rose", {
