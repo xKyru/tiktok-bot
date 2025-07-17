@@ -3,5 +3,8 @@
     "axios": "^1.10.0",
     "tiktok-live-connector": "^2.0.6-beta2"
   },
+  "scripts":{
+    "start": "node tiktok-bot.js"
+  },
   "type": "module"
 }
